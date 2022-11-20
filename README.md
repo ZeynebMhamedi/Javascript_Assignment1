@@ -5,13 +5,12 @@ Bienvenue au jeu de Lutte contre le Corona !
 
 Dans ce jeu, vous êtes la bactérie qui tue les cellules du virus Corona ayant la couleur
 que vous pouvez choisir en bas dans la liste des couleurs. 
-A chaque niveau, il faut manger toutes les cellules ayany la bonne couleur et surtout
+A chaque niveau, il faut manger toutes les cellules ayant la bonne couleur et surtout
 ne pas toucher aux autres cellules qui vous contamineront et au bout de 3 mauvaises cellules 
 touchées, vous perdez!
  
 On commence par un niveau facile et à chaque fois que vous gagnez, vous passez au niveau 
-supérieur. Le nombre de balles à manger correspond au numéro du niveau dans lequel vous êtes
-(par exemple si vous êtes au niveau 3, il y aura 3 boules à manger).
+supérieur. Le nombre de balles à manger correspond au numéro du niveau dans lequel vous êtes.
 
 Pour représenter le joueur, j'ai choisi une forme étoilée.
 J'ai également personnalisé la mise en page du jeu en changeant le fond(dégardé de beige), 
